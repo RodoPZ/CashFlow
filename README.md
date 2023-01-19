@@ -1,6 +1,6 @@
 # CashFlow
 
-Live demo: https://tubular-cucurucho-57288a.netlify.app/
+Live demo: [here](https://rodopz-cashflow.netlify.app/)
 
 ## Recommended IDE Setup
 

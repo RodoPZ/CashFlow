@@ -1,6 +1,6 @@
 # CashFlow
 
-This template should help get you started developing with Vue 3 in Vite.
+Live demo: https://tubular-cucurucho-57288a.netlify.app/
 
 ## Recommended IDE Setup
 
